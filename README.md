@@ -1,7 +1,8 @@
 # Quantile-Regression
 
 Bu repo quantile regresyon üzerine konu anlatımı ve uygulamalı örnek kod dosyası içermektedir.
-" quantile_regression.ipynb " adlı kod dosyasında öğrenci notlarına bakarak yıl sonu scoreunu tahmin yapan bir kod yazmaya çalıştım, kendi oluşturduğum bu küçük sentetik dataset üzerinde quantile regresyonun daha az hata verdiği gözlemlenmiştir ama veri setinin küçük olması nedeni ile kullanımını tavsiye etmem. Kendi küçük datasetinizi normal dağılıma sahip verilerinize aykırılıklar ekleyerek yapabilirsiniz. (Sklearnın quantile regression adlı dökümantasyonunu incelemenizi tavsiye ederim bunun için)
+
+"quantile_regression.ipynb" adlı kod dosyasında öğrenci notlarına bakarak yıl sonu scoreunu tahmin yapan bir kod yazmaya çalıştım, kendi oluşturduğum bu küçük sentetik dataset üzerinde quantile regresyonun daha az hata verdiği gözlemlenmiştir ama veri setinin küçük olması nedeni ile kullanımını tavsiye etmem. Kendi küçük datasetinizi normal dağılıma sahip verilerinize aykırılıklar ekleyerek yapabilirsiniz. (Sklearnın quantile regression adlı dökümantasyonunu incelemenizi tavsiye ederim bunun için)
 
 Diğer kod örneğinde " presentationI-beriaacan.ipynb " ortalama insan hayatı üzerine tahmin yaptığım örnekte mean ve median değerlerinin outlierı  az olan veri setinde yani varyansı düsük olan veri setinde neredeyse aynı çıktığı gösterilmiştir. 
 
